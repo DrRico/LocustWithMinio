@@ -11,11 +11,11 @@ Use locust performance testing framework to test Mini server through upload, dow
 ### Please extract relevant information in the data folder
 
 
-For Minio please visit [Minio](https://docs.min.io/cn/python-client-quickstart-guide.html)
-===========================================================================================
+For Minio please visit [Minio](https://docs.min.io/cn/python-client-quickstart-guide.html)or the[Client API Reference](https://docs.min.io/docs/python-client-api-reference)
+=======================================================================================================
 
-or the[Client API Reference](https://docs.min.io/docs/python-client-api-reference)
-===================================================================================
+
+
 
 And for Locust please visit [Locust](https://docs.locust.io/en/stable/)
 ========================================================================
