@@ -22,3 +22,7 @@ And for Locust please visit [Locust](https://docs.locust.io/en/stable/)
 
 please subscibe my [Blog](https://blog.csdn.net/Rico_Rico_) if you like this.
 -----------------------------------------------------------------------------
+
+Also I update the [RobotFramework](https://robotframework.org/) in the robot framework folder,
+hope you will like it.
+-----------------------------------------------------------------------------------------------
